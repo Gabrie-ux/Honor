@@ -1,4 +1,4 @@
-//Código Creado Por Niño Piña: wa.me/50557865603
+//Código Creado Por hayubu: wa.me/50557865603
 
 const handler = async (m, {conn, command}) => {
   console.log(`/////////////////////////////////////////////////////////////////\n\nEl único reporte con fallos en este comando, no se presenta aquí.\n\n/////////////////////////////////////////////////////////////////`);
