@@ -66,9 +66,9 @@ ___
 
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
-| **WhatsApp** | 𝐂𝐚𝐧𝐚𝐥 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W) |
-| **WhatsApp** | 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B7POPrlJiZf7UWHJKvzVkx) |
-| **WhatsApp** | 𝐂𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B85dNp4WfzsDeDz8OFgvhx) |
+| **WhatsApp** | 𝐂𝐚𝐧𝐚𝐥 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i) |
+| **WhatsApp** | 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i |
+| **WhatsApp** | 𝐂𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i|
 | **Dashboard** | 𝐒𝐢𝐭𝐢𝐨𝐖𝐞𝐛 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click Aquí!](https://crowbot-web.vercel.app/) |
 | **Terminos** | 𝐓𝐞𝐫𝐦𝐢𝐧𝐨𝐬 𝐃𝐞𝐥𝐚 𝐖𝐞𝐛 | [¡Click Aquí!](https://github.com/WillZek/WillZek/blob/main/TyCW.md) |
 
@@ -246,8 +246,8 @@ href="https://dash.hostingpy.shop/"><img src="https://files.catbox.moe/lr92z2.jp
 
 ## **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
 <a
-href="https://github.com/WillZek"><img src="https://github.com/WillZek.png" width="130" height="130" alt="WillZek"/></a>
+href="https://github.com/dilan"><img src="https://github.com/WillZek.png" width="130" height="130" alt="WillZek"/></a>
 
 </details>
 
-> **[✎ P᥆ᥕᥱrᥱძ ᑲᥡ s𝗍ᥲrᥴ᥆rᥱ 𝗍ᥱᥲm ❀](https://whatsapp.com/channel/0029VaxkClI1NCrW4BX5rn3g)**
+> **[✎ P᥆ᥕᥱrᥱძ ᑲᥡ s𝗍ᥲrᥴ᥆rᥱ 𝗍ᥱᥲm ❀](https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i)**
