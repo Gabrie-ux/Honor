@@ -33,6 +33,6 @@ let texto = `• 𝐌𝐄𝐍𝐔 +10 •
         { quoted: fkontak })
 }
 handler.help = ['menuhot (menu +18)']
-handler.tags = ['crow']
+handler.tags = ['hayabu']
 handler.command = ['menu18', 'menuhorny', 'menunsfw', 'menuhot'] 
 export default handler;
