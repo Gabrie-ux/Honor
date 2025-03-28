@@ -8,10 +8,10 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 🛡️ Han sugerido un comando:
 > ${text}`
     
-    const groupChatId = '120363346831728441@g.us';
+    const groupChatId = '120363418214675829@g.us';
     await conn.reply(groupChatId, m.quoted ? teks + m.quoted.text : teks, m, { mentions: conn.parseMention(teks) })
 
-    m.reply('🌠 La sugerencia se envió al Staff De CrowBot.')
+    m.reply('🌠 La sugerencia se envió al Staff De Hayabu.')
 }
 handler.help = ['sugerencia']
 handler.tags = ['owner']
