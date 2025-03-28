@@ -154,7 +154,7 @@ opcion = await question(`╭${lineM}
 │ ${chalk.blueBright('┊')} ${chalk.italic.magenta("Escriba solo el numero de")}
 │ ${chalk.blueBright('┊')} ${chalk.italic.magenta("La opcion para conectarse")}
 │ ${chalk.blueBright('╰┄┈┅┈┄┈┅┈┄┅┈┄┈┅┄┈┅┈┄')} 
-│ ${chalk.italic.red(`CrowBot-ST 🌠`)}
+│ ${chalk.italic.red(`Hayasu Bot 🌠`)}
 ╰${lineM}\n${chalk.bold.magentaBright('---> ')}`)
 if (!/^[1-2]$/.test(opcion)) {
 console.log(chalk.bold.redBright(`NO SE PERMITE NÚMEROS QUE NO SEAN ${chalk.bold.greenBright("1")} O ${chalk.bold.greenBright("2")}, TAMPOCO LETRAS O SÍMBOLOS ESPECIALES.\n${chalk.bold.yellowBright("CONSEJO: COPIE EL NÚMERO DE LA OPCIÓN Y PÉGUELO EN LA CONSOLA.")}`))
@@ -280,7 +280,7 @@ process.on('uncaughtException', console.error);
 async function connectSubBots() {
 const subBotDirectory = './CrowJadiBot';
 if (!existsSync(subBotDirectory)) {
-console.log('🍭 CrowBot-ST no tiene Sub-Bots vinculados.');
+console.log('🍭 Hayasu no tiene Sub-Bots vinculados.');
 return;
 }
 
@@ -307,11 +307,11 @@ const mainBotAuthFile = 'CrowSession';
 try {
 const mainBot = await connectionUpdate(mainBotAuthFile);
 global.conns.push(mainBot);
-console.log(chalk.bold.greenBright(`🍭 CrowBot conectado correctamente.`))
+console.log(chalk.bold.greenBright(`🍭 Hayasu Bot conectado correctamente.`))
 
 await connectSubBots();
 } catch (error) {
-console.error(chalk.bold.cyanBright(`🥀 Error al iniciar CrowBot-ST: `, error))
+console.error(chalk.bold.cyanBright(`🥀 Error al iniciar Hayasu Ai: `, error))
 }
 })();
 
