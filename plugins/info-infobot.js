@@ -55,31 +55,31 @@ setTimeout(resolve, 1000)
 }
 let timestamp = speed()
 let latensi = speed() - timestamp
-let crow = `╭─✪「 *Info De CrowBot* 」✪\n`
+let crow = `╭─✪「 *Info De hayabu* 」✪\n`
 crow += `│ 👑 *Creador* : @${owner[0][0].split('@s.whatsapp.net')[0]}\n`
-crow += `│ 🍭 *Prefijo* : [  ${usedPrefix}  ]\n`
-crow += `│ 🍫 *Tipo De Bot:* ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Sub-Bot 🅢')}\n`
-crow += `│ 📦 *Total Plugins* : ${totalf}\n`
-crow += `│ 💫 *Plataforma* : ${platform()}\n`
-crow += `│ 👨‍💻 *Servidor* : ${hostname()}\n`
-crow += `│ 🚀 *RAM* : ${format(totalmem() - freemem())} / ${format(totalmem())}\n`
-crow += `│ 🌟 *FreeRAM* : ${format(freemem())}\n`
-crow += `│ ✨️ *Speed* : ${latensi.toFixed(4)} ms\n`
-crow += `│ 🕗 *Uptime* : ${uptime}\n`
-crow += `│ 🌙 *Modo* : ${bot.public ? 'Privado' : 'Publico'}\n`
-crow += `│ 💛 *Comandos Ejecutados* : ${toNum(totalStats)} ( *${totalStats}* )\n`
-crow += `│ 🌆 *Grupos Registrados* : ${toNum(totalchats)} ( *${totalchats}* )\n`
-crow += `│ 🍧 *Registrados* : ${toNum(totalreg)} ( *${totalreg}* ) Usuarios\n`
-crow += `╰─╼\n\n`
-crow += `╭─✪「 *Chats De CrowBot* 」✪\n`
-crow += `│ ⌨️ *${groupsIn.length}* Chats en Grupos\n`
-crow += `│ 🖇️ *${groupsIn.length}* Grupos Unidos\n`
-crow += `│ 🥞 *${groupsIn.length - groupsIn.length}* Grupos Salidos\n`
-crow += `│ 💬 *${chats.length - groupsIn.length}* Chats Privados\n`
-crow += `│ 💭 *${chats.length}* Chats Totales\n`
-crow += `╰─╼\n\n`
-crow += `╭─✪「 *NodeJS Uso de memoria* 」✪\n`
-crow += `${'```' + Object.keys(used).map((key, _, arr) => `│ ${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}\n`
+hayabu += `│ 🍭 *Prefijo* : [  ${usedPrefix}  ]\n`
+hayabu += `│ 🍫 *Tipo De Bot:* ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Sub-Bot 🅢')}\n`
+hayabu += `│ 📦 *Total Plugins* : ${totalf}\n`
+hayabu += `│ 💫 *Plataforma* : ${platform()}\n`
+hayabu += `│ 👨‍💻 *Servidor* : ${hostname()}\n`
+hayabu += `│ 🚀 *RAM* : ${format(totalmem() - freemem())} / ${format(totalmem())}\n`
+hayabu += `│ 🌟 *FreeRAM* : ${format(freemem())}\n`
+hayabu += `│ ✨️ *Speed* : ${latensi.toFixed(4)} ms\n`
+hayabu += `│ 🕗 *Uptime* : ${uptime}\n`
+hayabu += `│ 🌙 *Modo* : ${bot.public ? 'Privado' : 'Publico'}\n`
+hayabu += `│ 💛 *Comandos Ejecutados* : ${toNum(totalStats)} ( *${totalStats}* )\n`
+hayabu += `│ 🌆 *Grupos Registrados* : ${toNum(totalchats)} ( *${totalchats}* )\n`
+hayabu += `│ 🍧 *Registrados* : ${toNum(totalreg)} ( *${totalreg}* ) Usuarios\n`
+hayabu += `╰─╼\n\n`
+hayabu += `╭─✪「 *Chats De CrowBot* 」✪\n`
+hayabu += `│ ⌨️ *${groupsIn.length}* Chats en Grupos\n`
+hayabu += `│ 🖇️ *${groupsIn.length}* Grupos Unidos\n`
+hayabu += `│ 🥞 *${groupsIn.length - groupsIn.length}* Grupos Salidos\n`
+hayabu += `│ 💬 *${chats.length - groupsIn.length}* Chats Privados\n`
+hayabu += `│ 💭 *${chats.length}* Chats Totales\n`
+hayabu += `╰─╼\n\n`
+hayabu += `╭─✪「 *NodeJS Uso de memoria* 」✪\n`
+hayabu += `${'```' + Object.keys(used).map((key, _, arr) => `│ ${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}\n`
 crow += `╰─╼`
 
 await conn.reply(m.chat, crow, fkontak, { contextInfo: { mentionedJid: [owner[0][0] + '@s.whatsapp.net'], externalAdReply: { mediaUrl: false, mediaType: 1, description: false, title: '↷✦╎Info - Bot╎🚩˖ ⸙',body: packname, previewType: 0, thumbnail: icons, sourceUrl: redes}}})
