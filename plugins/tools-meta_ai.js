@@ -20,7 +20,7 @@ throw `*🚨 Lo sentimos, ha ocurrido un error 😔*`;
 }
 }
 handler.tags = ['tools'];
-handler.help = ['crowai'];
-handler.command = ['crowai'];
+handler.help = ['hayai'];
+handler.command = ['hayai'];
 
 export default handler;
