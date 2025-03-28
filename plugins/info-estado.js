@@ -28,7 +28,7 @@ await conn.sendFile(m.chat, pp, 'nino.jpg', Crow, fkontak, null, rcanal)
 }
 handler.help = ['status']
 handler.tags = ['info']
-handler.command = /^(estado|status|estate|state|stado|stats)$/i
+handler.command = /^(estado|info|estate|state|stado|stats)$/i
 handler.estrellas = 5;
 handler.register = true
 export default handler
