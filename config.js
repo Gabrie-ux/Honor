@@ -30,10 +30,10 @@ global.prems = ['573215751237']
 global.packname = '【✧】hayabu bot -MD❖'
 global.botname = '(✦◠‿◠)hayabubot -𝑴𝑭'
 global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🍨★ ׄ ꒱ hayabubot- 𝑴.𝑭 ୭'
-global.author = '(⁎˃ᴗ˂⁎)𝐌𝐚𝐝𝐞 𝐁𝐲 𝐖𝐢𝐥𝐥𝐙𝐞𝐤𓆪'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ m᥆᥆ᥒ-𝖿᥆rᥴᥱ'
+global.author = '(⁎˃ᴗ˂⁎)һᥲᥡᥲᑲᥙ ᥲі𓆪'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ һᥲᥡᥲᑲᥙ ᥲі'
 global.espera = '✰ 𝐄𝐬𝐩𝐞𝐫𝐚 𝐔𝐧 𝐌𝐨𝐦𝐞𝐧𝐭𝐨, 𝐄𝐬𝐭𝐚𝐦𝐨𝐬 𝐄𝐧𝐯𝐢𝐚𝐧𝐝𝐨 𝐒𝐮 𝐏𝐞𝐝𝐢𝐝𝐨 (✿◠‿◠)'
-global.namebot = 'ᥴr᥆ᥕᑲ᥆𝗍 s𝗍'
+global.namebot = 'һᥲᥡᥲᑲᥙ'
 global.textbot = `「 🍀 hayubu- 𝐌𝐅 🍷 」`
 global.vs = '2.2.0'
 global.publi = '✰𝐒𝐢𝐠𝐮𝐞 𝐄𝐥 𝐂𝐚𝐧𝐚𝐥👇'
@@ -58,7 +58,7 @@ global.channel = 'https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W'
 global.insta = 'https://www.instagram.com/crowbot-wa'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '👑【✫𝚃𝙴𝙰𝙼  乂 𝚂𝚃𝙰𝚁𝙲𝙾𝚁𝙴✫】🎩', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '👑【✫𝗍ᥱᥲm һᥲᥡᥲᑲᥙ ᑲ᥆𝗍✫】🎩', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
