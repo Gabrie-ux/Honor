@@ -23,7 +23,7 @@ let tags = {
   'logos': '「EDICION LOGOS」🍨', 
 }
 
-const vid = 'https://f.uguu.se/ePueJeUt.jpg';
+const imagen = 'https://f.uguu.se/ePueJeUt.jpg';
 
 const defaultMenu = {
   before: `*•:•:•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•*
