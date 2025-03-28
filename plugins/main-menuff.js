@@ -27,7 +27,7 @@ m.react('🔫');
 }
 
 handler.help = ['menuff (Menu Free Fire)'];
-handler.tag = ['crow'];
+handler.tag = ['hayabu'];
 handler.command = ['menuff'];
 
 export default handler
