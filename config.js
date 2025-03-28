@@ -10,16 +10,12 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 // Staff De CrowBot
 global.owner = [
-   ['50557865603', 'Creador WillZek💛', true],
-   ['5212731595017', 'CrowBot Soporte', true],
-   ['584148256527', 'Dev Diomar', true],
-   ['584120346669', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
-   ['584241836217', 'Dev Prak', true],
-   ['51968382008', 'Dev Darkcore', true],
+   ['51941658192', 'Creador Hayusa', true],
+   ['584146277368', 'Barbpza', true],
 ]
 
 global.creadorbot = [
-   ['50557865603', 'WillZek', true],
+   ['51941658192', 'Hayusa', true],
 ]
   
 
