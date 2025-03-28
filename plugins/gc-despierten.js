@@ -5,7 +5,7 @@ m.react('🌞');
 // Siuuuuuuuuu
 const message = "⏰ *DESPERTADOR* ⏰ Levántense webones 💪🥵";
 if (m.isGroup) {
-// CrowBot🔥
+// hayabu🔥
 const videoUrl = 'https://files.catbox.moe/xss6jx.mp4'; //  Levantense🗣️🔥🔥
 await conn.sendMessage(m.chat, { video: { url: videoUrl }, caption: message }, { mimetype: 'video/mp4' });
 }
