@@ -24,7 +24,7 @@ hayabu += `│ 💛 *Usuarios Registrados ∙* ${totalreg}\n`
 hayabu += `│ 🍭 *Grupos Registrados ∙* ${totalchats}\n`
 hayabu += `│ 🕜 *Actividad ∙* ${muptime}\n`
 hayabu += `╰─⬣`
-await conn.sendFile(m.chat, pp, 'nino.jpg', Crow, fkontak, null, rcanal)
+await conn.sendFile(m.chat, pp, 'nino.jpg', hayabu, fkontak, null, rcanal)
 }
 handler.help = ['status']
 handler.tags = ['info']
