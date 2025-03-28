@@ -8,7 +8,7 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
-// Staff De CrowBot
+// Staff De Hayabu Ai 
 global.owner = [
    ['51941658192', 'Creador Hayusa', true],
    ['584146277368', 'Barbpza', true],
@@ -55,7 +55,7 @@ global.gteam = 'https://chat.whatsapp.com/FeWfraCmhn0BFtRatwm7oM'
 global.gsupport = 'https://chat.whatsapp.com/FeWfraCmhn0BFtRatwm7oM'
 global.comu = 'https://chat.whatsapp.com/FeWfraCmhn0BFtRatwm7oM'
 global.channel = 'https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'
-global.insta = 'https://www.instagram.com/crowbot-wa'
+global.insta = 'https://www.instagram.com/gabr_iel1rm?igsh=MTEwNGI0YjNqamV3dA=='
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '👑【✫𝗍ᥱᥲm һᥲᥡᥲᑲᥙ ᑲ᥆𝗍✫】🎩', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
