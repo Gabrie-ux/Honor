@@ -1,9 +1,9 @@
 let handler = async (m, { isPrems, conn }) => {
 
-let img = 'https://files.catbox.moe/w1ltfq.jpg' 
+let img = 'https://qu.ax/TDAld.jpg' 
 
 let texto = `• 𝐌𝐄𝐍𝐔-𝐋𝐎𝐆𝐎𝐒 •
-•° 🔱 *LOGOS BY CROWBOT* 🔱 °•
+•° 🔱 *LOGOS BY HAYABU BOT* 🔱 °•
 
 ┊➺ 🪩 .𝘭𝘰𝘨𝘰𝘤𝘰𝘳𝘢𝘻𝘰𝘯 (texto)
 ┊➺ 🪩 .𝘭𝘰𝘨𝘰𝘤𝘩𝘳𝘪𝘴𝘵𝘮𝘢𝘴 (texto)
@@ -54,6 +54,6 @@ let texto = `• 𝐌𝐄𝐍𝐔-𝐋𝐎𝐆𝐎𝐒 •
 }
 
 handler.help = ['menulogo (menu de logos)']
-handler.tags = ['crow']
-handler.command = ['menulogos', 'logos', 'menulogo'] 
+handler.tags = ['hayabu']
+handler.command = ['menu2', 'logos', 'menulogo'] 
 export default handler
