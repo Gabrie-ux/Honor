@@ -44,8 +44,8 @@ conn.reply(m.chat, `*Tu Mamá we 🍆🥵*`, m, rcanal, )
 }
 
 if (/^Crow$/i.test(m.text)) {
-conn.reply(m.chat, `*Hola Eres Fan De* *CrowBot o Brawl Stars*
-*Entonces Sigue El Canal Oficial!*\n> https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W\n\n*O Puedes Ir Al Sitio Web Oficial De CrowBot!*\n> https://crowbot-web.vercel.app/\n\n*Gracias por utilizar CrowBot-MF* `, m, rcanal, )
+conn.reply(m.chat, `*Hola Eres Fan De* *hayabu
+*Entonces Sigue El Canal Oficial!*\n> https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i\n*O Puedes Ir Al Sitio Web Oficial De hayabu!*\n> https://crowbot-web.vercel.app/\n\n*Gracias por utilizar CrowBot-MF* `, m, rcanal, )
 }
 
 if (/^reglasgp|.reglasgp$/i.test(m.text)) {
