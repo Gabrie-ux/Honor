@@ -22,7 +22,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
         contextInfo: {
             externalAdReply: {
                 showAdAttribution: true,
-                title: 'һ᥆ᥣᥲ s᥆ᥡ Dilan-᥆𝖿ᥴ ᥱᥣ mᥱȷ᥆r',
+                title: 'һ᥆ᥣᥲ s᥆ᥡ *hayabu*-᥆𝖿ᥴ ᥱᥣ mᥱȷ᥆r',
                 body: dev,
                 thumbnailUrl: 'https://i.ibb.co/4Zg31Wsc/file.jpg',
                 sourceUrl: 'https://github.com/Dilan',
