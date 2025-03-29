@@ -13,7 +13,7 @@ global.owner = [
    ['51941658192', 'Creador Hayusa', true],
    ['584146277368', 'Barbpza', true],
 ]
-
+   ['+58424-5610338‘, alba'true],
 global.creadorbot = [
    ['51941658192', 'Hayusa', true],
 ]
