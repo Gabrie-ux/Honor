@@ -1,5 +1,4 @@
-// By WillZek Para CrowBot
- 
+
 let handler = async(m, { conn }) => {
 
 let vs = `🩵 4 VS 4 - FREE FIRE\n\n`
