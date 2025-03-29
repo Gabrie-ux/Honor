@@ -25,7 +25,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
                 title: 'һ᥆ᥣᥲ s᥆ᥡ *hayabu*-᥆𝖿ᥴ ᥱᥣ mᥱȷ᥆r',
                 body: dev,
                 thumbnailUrl: 'https://i.ibb.co/4Zg31Wsc/file.jpg',
-                sourceUrl: 'https://github.com/Dilan',
+                sourceUrl: 'https://github.com/gabrie-ux',
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
